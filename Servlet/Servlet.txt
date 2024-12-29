@@ -1,0 +1,17 @@
+SERVLET-It It is a technology used to create dynamic Web Apllications.....
+        -It is a Robust and Scalable technology...
+        -it overcome the CGI(common gateway inteface)Technology......
+  #Advantages-
+  1)Better Performnce
+  2)Portability
+  3)Robust
+  4)Secure
+#to run program on eclipse some Precautions-
+  -install apache tomcat server
+  -close all the apache tompat notification..
+  -add apache tomcat using ADD EXTERNAL JAR
+  -CLASS MUST BE PUBLIC AND AND SAE AS fILE NAME.....
+  -if unpredictably tomcat stoppeed the doble click on [started,synchronix=zed].
+  -or build path
+   -Servlet program Run as Run on Server..
+   -JDBC program Run as Run as java application..
