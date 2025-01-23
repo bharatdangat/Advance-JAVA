@@ -1,1 +1,18 @@
-
+Collection=It is Combinaton of classes,Interfaces and algorithms...
+  -use java.util.*; pkg....
+ Iterator is parent class of collection 
+  1.List-
+    1)ArrayList:duplicates,unsorted
+    2)LinkedList:duplicates,unsorted
+    3)Vector:duplicates,unsorted
+  2.Set-
+    1)Hashset:duplicates not allow
+    2)LinkedHashSet:duplicates not allow
+    3)TreeSet:duplicates not allow,sorted
+  3.Queue-
+    1)PriorityQueue:
+    2)DEQueue:
+ 4.Map-(key:value pair)
+   1)Hashmap:duplicates not allow,sorted
+   2)LinkedHashmap:
+   3)Treemap:duplicates not allow,sorted
