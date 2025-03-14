@@ -1,8 +1,10 @@
 //Accept  employee information and display.........
 import javax.servlet.*;
+import javax.servlet.annotation.WebServlet;
 import java.io.*;
+@WebServlet("/Emp")
 public class Emp extends GenericServlet 
-{
+{	
 	public void service(ServletRequest req,ServletResponse res)throws ServletException,IOException
 	{
 		 PrintWriter pw=res.getWriter();

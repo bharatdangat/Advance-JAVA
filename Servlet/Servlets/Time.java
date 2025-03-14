@@ -1,7 +1,9 @@
 //Write program to accept username and greet the message according to syatem time..
 import javax.servlet.*;
+import javax.servlet.annotation.WebServlet;
 import java.io.*;  //USED FOR PRINWRITER CLASS,,,,,,
 import java.util.*; //USED FOR DATE CLASS
+@WebServlet("/Time")
 public class Time extends GenericServlet
 {
 	public void service(ServletRequest req,ServletResponse res)throws ServletException,IOException
